@@ -17,5 +17,27 @@ figure{
     width: 200px;
     position: absolute;
     bottom: 0;
+    margin-left: 10px;
     
+}
+
+h1{
+    font-size: 50px;
+    margin-left: 10px;
+}
+
+.testogrigio{
+    color: lightgray;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.bluetext{
+    color: rgb(6, 164, 255);
+    margin-left: 10px;
+}
+
+.greytext{
+    color: lightgray;
+    margin-left: 10px;
 }
