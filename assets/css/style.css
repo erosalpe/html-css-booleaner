@@ -25,11 +25,6 @@ h1{
     font-size: 50px;
 }
 
-article{
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
 .bluetext{
     color: rgb(0, 119, 255);
 }
@@ -69,8 +64,9 @@ td{
 }
 
 footer{
-    margin-left: 10px;
     position: relative;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 .correlatone{
@@ -91,4 +87,9 @@ footer{
     margin-bottom: 5px;
     padding: 5px;
     font-size: 24px;
+}
+
+main{
+    margin-left: 25%;
+    margin-right: 25%;
 }
