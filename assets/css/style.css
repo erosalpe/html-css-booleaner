@@ -27,6 +27,7 @@ h1{
 
 article{
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 .bluetext{
@@ -39,4 +40,11 @@ strong{
 
 .greytext{
     color: lightgray;
+}
+
+.highlightme { background-color:#FFFF00; }
+p { background-color:#FFFFFF; }
+
+ul{
+    margin-left: 1em;
 }
