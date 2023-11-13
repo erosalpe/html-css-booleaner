@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+}
+
+header{
+    height: 100px;
+    background-color: rgb(44, 174, 255);
+    background-image: url("../img/pattern.png");
+    background-size: 25%;
+    background-repeat: repeat-x;
+    position: relative;
+}
+
+figure{
+    width: 200px;
+    position: absolute;
+    bottom: 0;
+    
+}
